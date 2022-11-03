@@ -1,0 +1,67 @@
+.resim{
+    text-align: center;
+}
+
+.first {
+    width: 1600px;
+    height: 75px;
+    background-color: rgb(204, 211, 208);
+    text-align: center;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.bir {
+    width: 39.75%;
+    height: 80px;
+    background-color: antiquewhite;
+    text-align: center;
+    float: left;
+    margin-right: 0.25%;
+     
+}
+
+.iki {
+    width: 20%;
+    background-color: aquamarine;
+    height: 80px;
+    text-align: center;
+    float: left;
+    
+}
+
+.uc {
+    width: 39.75%;
+    background-color: rgb(158, 179, 179);
+    height: 80px;
+    text-align: center;
+    float: left;
+    margin-left: 0.25%;
+    
+}
+
+.clear {
+    clear: both;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+
+
+.yazi {
+    text-align: center;
+}
+
+
+
+
+
