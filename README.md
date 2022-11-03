@@ -1,3 +1,4 @@
 # google-98
 
-<img src="https://prnt.sc/vtQQ4kyVYLjx" width="351" height="113" alt="google">
+
+<img src="https://img001.prntscr.com/file/img001/s-ickbf4SpqnUXyE69Z8Cg.png" alt="98">
